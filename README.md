@@ -1,4 +1,4 @@
-# **🚀 Credit Card Fraud Detection using Python & SQL**  
+# **🚀 Credit Card Fraud Detection & Analysis using Python **  
 
 ## **📌 Overview**  
 This project analyzes credit card transaction data to detect fraudulent activities. Using Python and its libraries, we explore patterns in fraudulent transactions, visualize key insights, and generate reports to help in fraud detection.  
@@ -10,8 +10,7 @@ This project analyzes credit card transaction data to detect fraudulent activiti
 - **Imbalance:** Only 0.17% of transactions are fraudulent.  
 
 ## **🛠 Tech Stack**  
-- Python (Pandas, NumPy, Seaborn, Matplotlib)  
-- SQL (For querying transaction data)  
+- Python (Pandas, NumPy, Seaborn, Matplotlib)   
 
 ## **📊 Exploratory Data Analysis (EDA)**  
 Key steps in the analysis include data cleaning, fraud distribution analysis, time-based fraud trend detection, transaction amount anomaly identification, and feature correlation study.  
