@@ -4,7 +4,7 @@
 This project analyzes credit card transaction data to detect fraudulent activities. Using Python and its libraries, we explore patterns in fraudulent transactions, visualize key insights, and generate reports to help in fraud detection.  
 
 ## **📂 Dataset**  
-- **Source:** Kaggle - Credit Card Fraud Detection Dataset  
+- **Source:** Kaggle - Credit Card Fraud Detection Dataset  (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
 - **Records:** 284,807 transactions  
 - **Features:** Time, V1-V28 (anonymized), Amount, and Class (0 = Legitimate, 1 = Fraudulent)  
 - **Imbalance:** Only 0.17% of transactions are fraudulent.  
